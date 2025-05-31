@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhurimabt
-- 👀 I’m interested in Gen AI, Python 
+- 👀 I’m interested in Python, SQL, Gen AI
 - 🌱 I’m currently learning Python exploring data analytics
 - ⚡ Fun fact: Huge fan of superheores & sci-fi
 
